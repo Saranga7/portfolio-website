@@ -18,10 +18,7 @@ module.exports = {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/saranga-mahanta7',
     },
-    {
-      name: 'Codepen',
-      url: '#',
-    },
+   
   ],
 
   navLinks: [
@@ -34,7 +31,7 @@ module.exports = {
       url: '/#jobs',
     },
     {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
     {
