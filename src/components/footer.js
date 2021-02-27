@@ -108,18 +108,6 @@ const Footer = () => {
         <a href="https://github.com/Saranga7/portfolio-website">
           <div>Built by Brittany Chiang &amp; customized by Saranga Mahanta</div>
 
-          {githubInfo.stars && githubInfo.forks && (
-            <div className="github-stats">
-              <span>
-                <Icon name="Star" />
-                <span>{githubInfo.stars.toLocaleString()}</span>
-              </span>
-              <span>
-                <Icon name="Fork" />
-                <span>{githubInfo.forks.toLocaleString()}</span>
-              </span>
-            </div>
-          )}
         </a>
       </StyledCredit>
     </StyledFooter>

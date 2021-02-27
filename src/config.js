@@ -6,18 +6,22 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/Saranga7',
     },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/unadulterated_7',
-    },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/mahanta_saranga',
-    },
+    
+  
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/saranga-mahanta7',
     },
+
+    {
+      name: 'Instagram',
+      url: 'https://www.instagram.com/unadulterated_7',
+    },
+
+    {
+      name: 'Twitter',
+      url: 'https://twitter.com/mahanta_saranga',
+    }
    
   ],
 
