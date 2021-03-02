@@ -1,5 +1,5 @@
 ---
-date: '2020-07-27'
+date: '5'
 title: 'Spam, Random Text and Abusive Words Classifier'
 github: 'https://github.com/Saranga7/spam_random_classifier'
 external: 'http://spamrandomclassifier.herokuapp.com/'

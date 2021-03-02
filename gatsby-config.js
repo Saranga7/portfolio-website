@@ -4,10 +4,10 @@ module.exports = {
   siteMetadata: {
     title: 'Saranga Mahanta',
     description:
-      'Brittany Chiang is a software engineer specializing in building (and occasionally designing) exceptional websites, applications, and everything in between.',
-    siteUrl: 'https://saranga-mahanta.netlify.app', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
+      'Portfolio website of Saranga Kingkor Mahanta',
+    siteUrl: 'https://sarangamahanta.netlify.app', // No trailing slash allowed!
+    image: '/Slogo.png', // Path to your image you placed in the 'static' folder
+    twitterUsername: '@mahanta_saranga',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
