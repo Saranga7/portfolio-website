@@ -8,7 +8,7 @@ tech:
   - Python
   - Keras/Tensorflow
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 Architectured a deep Neural Network and achieved a new state-of-the-art accuracy on the [London Philharmonic Orchestra Datasest.](https://philharmonia.co.uk/resources/sound-samples/)First author of the paper "Deep Neural Network for Musical Instrument Recognition using MFCCs", under review at the 5th ICACDS-2021.

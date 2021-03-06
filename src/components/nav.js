@@ -8,6 +8,7 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
+import Logo from '../../static/logo.svg'
 
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};
@@ -160,11 +161,13 @@ const Nav = ({ isHome }) => {
               <div className="logo" tabIndex="-1">
                 {isHome ? (
                   <a href="/" aria-label="home">
-                    <IconLogo />
+                    {/*<IconLogo />*/}
+                    <img src={Logo} style={{width:'4em',height:'4em'}}></img>
                   </a>
                 ) : (
                   <Link to="/" aria-label="home">
-                    <IconLogo />
+                   {/*<IconLogo />*/}
+                   <img src={Logo} style={{width:'4em',height:'4em'}}></img>
                   </Link>
                 )}
               </div>
