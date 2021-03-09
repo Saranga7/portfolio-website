@@ -141,22 +141,22 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Brittany, a software engineer based in Boston, MA.</p>
+            <p>I'm a Bachelor of Technology undergraduate from NIT Silchar.</p>
 
             <p>
-              I enjoy creating things that live on the internet, whether that be websites,
-              applications, or anything in between. My goal is to always build products that provide
-              pixel-perfect, performant experiences.
+              I possess a sheer fascination for <b>Adversarial Machine Learning </b>, <b>Data Science </b>and the various applications of 
+              <b> Deep Learning</b> in the vast domains of <b>Computer Vision</b>, <b>Natural Language Processing</b>, <b>Speech and Music processing </b>,
+              and so on. I strive to understand the subtle nuances of neural networks that make them excel in unprecedented spheres of life. 
+              My long-term vision is to become a notable contributor on the path to achieving <b>Deep Understanding </b> and <b> Artificial General Intelligence.</b></p>
+              <p>
+
+              Currently, I'm open to work oppurtunites that will "fine-tune" me and help me progress towards my goals.
+
+            
             </p>
 
-            <p>
-              Shortly after graduating from{' '}
-              <a href="https://www.ccis.northeastern.edu">Northeastern University</a>, I joined the
-              engineering team at <a href="https://www.upstatement.com">Upstatement</a> where I work
-              on a wide variety of interesting and meaningful projects on a daily basis.
-            </p>
-
-            <p>Here are a few technologies I've been working with recently:</p>
+            
+            <p>A few technologies I feel confident about:</p>
           </div>
 
           <ul className="skills-list">
@@ -170,6 +170,11 @@ const About = () => {
           </div>
         </StyledPic>
       </div>
+      <br></br>
+      <p> Apart from my "technical side", I am a travelling & mountaineering enthusiast, an adventurer, a modest reader, and a copoclephilist.
+        I play the piano and seldom write (check out my <a href="https://seventhinsight.wordpress.com/"> blog </a>). I am also a member of a social
+        youth organization, <a href="https://www.instagram.com/progotixil/"> Progotixil </a>.
+      </p>
     </StyledAboutSection>
   );
 };
