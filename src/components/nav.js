@@ -8,7 +8,7 @@ import { loaderDelay } from '@utils';
 import { useScrollDirection } from '@hooks';
 import { Menu } from '@components';
 import { IconLogo } from '@components/icons';
-import Logo from '../../static/logo.svg'
+import Logo from '../../static/logo2.svg'
 
 const StyledHeader = styled.header`
   ${({ theme }) => theme.mixins.flexBetween};

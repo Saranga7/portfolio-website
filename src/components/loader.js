@@ -88,7 +88,7 @@ const Loader = ({ finishLoading }) => {
 
       <div className="logo-wrapper">
       {/*<IconLoader />*/}
-      <img src={Logo} style={{width:'4em',height:'4em'}}></img>
+      <img src={Logo} style={{width:'auto%',height:'200px'}}></img>
       </div>
     </StyledLoader>
   );
