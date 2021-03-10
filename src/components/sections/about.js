@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'HTML & (S)CSS', 'React', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['C/C++','Python', 'Keras-TensorFlow', 'PyTorch','Flask','OpenCV' ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -167,9 +167,11 @@ const About = () => {
         <StyledPic>
           <div className="wrapper">
             <Img fluid={data.avatar.childImageSharp.fluid} alt="Avatar" className="img" />
+            
           </div>
         </StyledPic>
       </div>
+      <br></br>
       <br></br>
       <p> Apart from my "technical side", I am a travelling & mountaineering enthusiast, an adventurer, a modest reader, and a copoclephilist.
         I play the piano and seldom write (check out my <a href="https://seventhinsight.wordpress.com/"> blog </a>). I am also a member of a social
