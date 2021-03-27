@@ -1,7 +1,7 @@
 ---
 date: '2021-03-14'
 title: 'Neural Style Transfer from Scratch'
-github: 'https://github.com/utkarsh914/Xbribe/tree/master/ml_model/Forecast'
+github: 'https://github.com/Saranga7/NST'
 external: ''
 tech:
   - Python
