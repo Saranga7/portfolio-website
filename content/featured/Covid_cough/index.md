@@ -1,6 +1,6 @@
 ---
 date: '2021-03-27'
-title: 'COVID-19 Diagnosis from Cough Acoustics'
+title: 'COVID-19 Diagnosis from Cough Sounds'
 cover: 'image.png'
 github: 'https://github.com/Saranga7/covid19--cough-diagnosis'
 external: ''
