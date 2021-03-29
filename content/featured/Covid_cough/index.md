@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Used ConvNets to efficiently classify cough sounds as belonging to COVID-19 positive or negative subjects and claimed the top position of the [Discova 2021 Challenge](https://dicova2021.github.io/) leaderboard. First author of the paper "COVID-19 Diagnosis from Cough Acoustics and ConvNets", under review at [InterSpeech 2021](https://www.interspeech2021.org/).
+Used ConvNets to efficiently classify cough sounds as belonging to COVID-19 positive or negative subjects and claimed the top position of the [DiCOVA 2021 Challenge](https://dicova2021.github.io/) leaderboard. First author of the paper "COVID-19 Diagnosis from Cough Acoustics and ConvNets", under review at [InterSpeech 2021](https://www.interspeech2021.org/).
