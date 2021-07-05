@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Extracted Mel-frequency Cepstral Coefficients from audio files and achieved a new SOTA accuracy on the [London Philharmonic Orchestra Datasest](https://philharmonia.co.uk/resources/sound-samples/) using a deep neural network.First author of the paper "Deep Neural Network for Musical Instrument Recognition using MFCCs", accepted for presentation at the [5th ICACDS](https://icacds.com/) conference.
+Extracted Mel-frequency Cepstral Coefficients from audio files and achieved a new SOTA accuracy on the [London Philharmonic Orchestra Datasest](https://philharmonia.co.uk/resources/sound-samples/) using a deep neural network.First author of the paper "Deep Neural Network for Musical Instrument Recognition using MFCCs", published in [Computación y Sistemas (Vol 25, No 2 (2021))](https://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/3946).
