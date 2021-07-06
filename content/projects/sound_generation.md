@@ -10,4 +10,4 @@ company: ''
 showInProjects: true
 ---
 
-Trained a vanilla and a Variational Autoencoder on the [Free Spoken Digit Dataset]{https://github.com/Jakobovski/free-spoken-digit-dataset} and studied the notable improvement in performance.
+Trained a vanilla and a Variational Autoencoder on the [Free Spoken Digit Dataset](https://github.com/Jakobovski/free-spoken-digit-dataset) and studied the notable improvement in performance.
