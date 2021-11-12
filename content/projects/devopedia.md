@@ -13,4 +13,5 @@ company: 'Devopedia'
 showInProjects: true
 ---
 
-Buiding a neural network with NER to extract Author, Title and Publishing Year of any webpage content with just a URL input, and generate the corresponding Reference String in the Chicago Manual of Style format.
+Performed web scraping using BeautifulSoup and used Feed‑forward Neural Networks to automatically identify
+Title, Author and Year (of publishing) entities from any webpage. Built an end‑to‑end system using Python that generates Reference Citation strings in the Chicago Manual Style format from URL inputs.
