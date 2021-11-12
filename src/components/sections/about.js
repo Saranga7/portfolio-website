@@ -132,7 +132,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['C/C++','Python', 'Keras-TensorFlow', 'PyTorch','Flask','OpenCV' ];
+  const skills = ['C/C++','Python', 'PyTorch', 'TensorFlow'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -144,19 +144,12 @@ const About = () => {
             <p>I'm a Bachelor of Technology undergraduate from NIT Silchar.</p>
 
             <p>
-              I possess a sheer fascination for <b>Adversarial Machine Learning </b>, <b>Data Science </b>and the various applications of 
-              <b> Deep Learning</b> in the vast domains of <b>Computer Vision</b>, <b>Natural Language Processing</b>, <b>Speech and Music processing </b>,
-              and so on. I strive to understand the subtle nuances of neural networks that make them excel in unprecedented spheres of life. 
-              My long-term vision is to become a notable contributor on the path to achieving <b>Deep Understanding </b> and <b> Artificial General Intelligence.</b></p>
-              <p>
-
-              Currently, I'm open to work oppurtunites that will "fine-tune" me and help me progress towards my goals.
-
+              I possess a sheer fascination for <b>Data Science</b> and <b>Machine Learning</b>, specifically in its applications in the vast domains of <b>Computer Vision</b>, 
+              <b>Generative learning</b>, <b>Speech and Music processing </b>, and so on. I strive to understand the subtle nuances of neural networks that make them excel in unprecedented spheres of life. 
+              My vision is to become a notable contributor on the path to achieving <b>Deep Understanding </b> and <b> Artificial General Intelligence.</b></p>
+         
             
-            </p>
-
-            
-            <p>A few technologies I feel confident about:</p>
+            <p>I am fairly well-versed with the following few tools:</p>
           </div>
 
           <ul className="skills-list">
