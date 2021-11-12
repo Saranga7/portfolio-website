@@ -49,10 +49,10 @@ const Hero = () => {
 
   const one = <h1>Hello, I am</h1>;
   const two = <h2 className="big-heading">Saranga Mahanta</h2>;
-  const three = <h3 className="big-heading">I help machines learn.</h3>;
+  const three = <h3 className="big-heading">Learning to help Machines learn.</h3>;
   const four = (
     <p>
-      I am into Natural Language Processing, Computer Vision and Speech Processing using Deep Learning techniques.
+      I am interested in Deep Learning, mainly its applications in Computer Vision, Speech Processing, and Generative learning.
     </p>
   );
   const five = (
