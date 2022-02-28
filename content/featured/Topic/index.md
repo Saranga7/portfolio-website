@@ -1,7 +1,7 @@
 ---
 date: '2020-09-27'
 title: 'Topic Extraction from Online Chats'
-cover: 'image.png'
+cover: ''
 github: 'https://github.com/Saranga7/topic-modelling-wordcloud'
 external: ''
 tech:
