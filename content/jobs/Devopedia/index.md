@@ -3,10 +3,10 @@ date: '2021-06-01'
 title: 'Data Science Intern'
 company: 'Devopedia'
 location: 'Bangalore, India'
-range: 'June 2021 - Present'
+range: 'June 2021 - August 2021'
 url: 'https://devopedia.org/'
 ---
 
-- Extracted relevant texts and tags from websites
-- Objective: To build a neural net with NER to identify Author, Title and Publishing Year of any article from a given URL 
-- To generate a reference string in CMS format from the extracted information
+- Performed web scraping using BeautifulSoup and used Feed‑forward Neural Networks to automatically identifyTitle, Author and Year (of publishing) entities from any webpage
+
+- Constructed an end‑to‑end system using Python that generates Reference Citation strings in the Chicago Manual Styleformat from URL inputs

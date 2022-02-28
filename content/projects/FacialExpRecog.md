@@ -8,7 +8,7 @@ tech:
   - Python
   - Keras/Tensorflow
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Architectured a CNN to fairly classify among five facial emotions- Happy, Sad, Neutral, Angry and Surprise. Real-time facial expression recognition through the webcam using OpenCV.

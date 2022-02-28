@@ -8,7 +8,7 @@ tech:
   - Flask
   - WordClouds
 company: ''
-showInProjects: false
+showInProjects: true
 ---
 
 Implemented Latent Dirichlet Allocation (LDA) to cluster topics in text dialogues. Generated WordClouds on day-wise segregated chats. Locally deployed WordCloud Generator of Whatsapp Chat text files using Flask.
