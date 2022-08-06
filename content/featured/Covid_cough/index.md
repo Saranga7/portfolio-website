@@ -12,4 +12,4 @@ company: ''
 showInProjects: true
 ---
 
-Used ConvNets to efficiently classify cough sounds as belonging to COVID-19 positive or negative subjects and claimed the top position of the [DiCOVA 2021 Challenge](https://dicova2021.github.io/) leaderboard.  presented at IEEE International Conference on Advances in Computing and Future Communication Technologies 2021 ‑ MIET Meerut; Publushed in [IEEE Xplore](https://ieeexplore.ieee.org/document/9837350).
+Used ConvNets to efficiently classify cough sounds as belonging to COVID-19 positive or negative subjects and claimed the top position of the [DiCOVA 2021 Challenge](https://dicova2021.github.io/) leaderboard.  presented at IEEE International Conference on Advances in Computing and Future Communication Technologies 2021 ‑ MIET Meerut; Published in [IEEE Xplore](https://ieeexplore.ieee.org/document/9837350).
