@@ -167,7 +167,7 @@ const About = () => {
       <br></br>
       <br></br>
       <p> Apart from my "technical side", I am a travelling & mountaineering enthusiast, an adventurer, a modest reader, and a copoclephilist.
-        I play the piano and seldom write (check out my <a href="https://seventhinsight.wordpress.com/"> blog </a>). I am also a member of a social
+        I play the piano (that sweet spot between a beginner and an intermediate pianist). I sometimes write stuff(check out my <a href="https://seventhinsight.wordpress.com/"> blog </a>). I was also a member of a social
         youth organization, <a href="https://www.instagram.com/progotixil/"> Progotixil </a>.
       </p>
     </StyledAboutSection>

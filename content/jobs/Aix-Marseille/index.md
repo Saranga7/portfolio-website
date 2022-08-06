@@ -1,7 +1,7 @@
 ---
 date: '2021-07-01'
 title: 'Research Intern'
-company: 'Aix‑Marseille University in colab. with NIT Silchar'
+company: 'Aix‑Marseille University in collab. with NIT Silchar'
 location: 'Marseille, France & Silchar, India'
 range: 'July 2021 - September 2021'
 url: ''

@@ -3,7 +3,7 @@ date: '2019-07-02'
 title: 'Senior Core Member'
 company: 'Machine Learning Club, NIT Silchar'
 location: 'Bangalore, India'
-range: 'September 2019 - Present'
+range: 'September 2019 - May 2022'
 url: 'https://www.facebook.com/mlclubNITS'
 ---
 
